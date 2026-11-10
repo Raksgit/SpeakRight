@@ -1,0 +1,17 @@
+# Backend
+fastapi
+uvicorn
+python-multipart
+
+# Frontend
+streamlit
+
+# Data Processing
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Speech Recognition Evaluation
+jiwer
