@@ -1,0 +1,25 @@
+{
+    "easy": [
+        "My name is John. I am a student. I like reading books. I play cricket with my friends. I want to learn English.",
+        "Today is a beautiful day. The sun is shining brightly. Birds are singing in the trees. Children are playing outside. Everyone looks happy.",
+        "I wake up early every morning. I brush my teeth and take a bath. Then I eat my breakfast. I go to college by bus. I enjoy learning new things.",
+        "My family has four members. My father is an engineer. My mother is a teacher. I have one younger brother. We love spending time together.",
+        "I like eating fruits. Apples and bananas are my favourites. Fruits are good for health. I eat them every day. They keep me healthy."
+    ],
+
+    "medium": [
+        "Technology has changed the way people communicate with each other. Smartphones allow us to connect with people across the world. Social media platforms help us share information quickly. However, excessive screen time can affect our health. We should use technology wisely.",
+        "Education plays an important role in shaping our future. It helps us develop knowledge and practical skills. Students should participate in activities beyond their classrooms. Learning from real-world experiences improves confidence. Continuous learning helps us achieve our goals.",
+        "Artificial intelligence is becoming an important part of modern society. It is used in healthcare, education, transportation, and business. AI systems can analyze large amounts of information quickly. However, responsible development is necessary. Humans should always consider ethical issues while using AI.",
+        "Reading books is an excellent habit that improves our knowledge and vocabulary. It also helps us develop imagination and creativity. Different books introduce us to different cultures and perspectives. Reading regularly can improve communication skills. Everyone should develop a habit of reading.",
+        "Time management is an essential skill for students. Planning daily activities helps us complete tasks efficiently. Setting priorities reduces unnecessary stress. Students should balance academics, hobbies, and personal activities. Good time management leads to better productivity."
+    ],
+
+    "hard": [
+        "Communication is not merely the exchange of information; it involves understanding emotions, intentions, and perspectives. Effective communication requires active listening, appropriate vocabulary, and clarity of expression. Misunderstandings often occur when people make assumptions without seeking clarification. Developing strong communication skills can significantly improve professional and personal relationships. Therefore, individuals should continuously practise expressing their thoughts with confidence and precision.",
+        "The rapid advancement of artificial intelligence has introduced remarkable opportunities across various industries. Deep learning algorithms can identify complex patterns in enormous datasets and perform tasks that previously required human intelligence. Nevertheless, challenges involving data privacy, algorithmic bias, and computational resources remain significant concerns. Researchers must develop transparent and responsible systems that prioritize human welfare. The future of artificial intelligence depends on balancing technological innovation with ethical responsibility.",
+        "Environmental sustainability has become a critical concern as industrialization and urban expansion continue to increase pressure on natural resources. Climate change, deforestation, and biodiversity loss threaten ecosystems across the globe. Governments, organizations, and individuals must collaborate to implement sustainable practices. Renewable energy, efficient resource management, and responsible consumption can reduce environmental damage. Long-term environmental protection requires informed decisions and consistent collective action.",
+        "Scientific research requires curiosity, systematic investigation, and the ability to evaluate evidence objectively. Researchers formulate hypotheses, conduct experiments, and analyze observations to develop reliable conclusions. Unexpected results often provide valuable insights that lead to further discoveries. Scientific progress depends on collaboration, critical thinking, and continuous verification. A strong research culture encourages innovation while maintaining accuracy and integrity.",
+        "Developing a successful technological solution involves more than writing code or assembling hardware components. Engineers must understand the underlying problem, identify practical constraints, and evaluate different design approaches. Testing under realistic conditions helps reveal weaknesses that may not appear during initial development. Continuous improvement ensures that the final system remains reliable, efficient, and user-friendly. Effective engineering combines technical knowledge with creativity, teamwork, and problem-solving abilities."
+    ]
+}
