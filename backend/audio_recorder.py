@@ -1,6 +1,5 @@
 import sounddevice as sd
 import soundfile as sf
-import os
 from pathlib import Path
 
 # Audio configuration
